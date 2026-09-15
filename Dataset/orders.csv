@@ -1,0 +1,301 @@
+order_id,customer_id,seller_id,order_date,order_status,shipping_city,shipping_state
+1,37,6,2025-11-06 14:30:00,Delivered,Surat,Gujarat
+2,75,7,2025-05-17 10:01:00,Delivered,Jaipur,Rajasthan
+3,57,5,2025-07-15 11:29:00,Delivered,Pune,Maharashtra
+4,66,10,2025-04-08 19:27:00,Delivered,Jaipur,Rajasthan
+5,3,11,2025-04-24 00:39:00,Delivered,Pune,Maharashtra
+6,58,11,2025-10-06 19:59:00,Delivered,Delhi,Delhi
+7,40,8,2025-09-27 02:33:00,Cancelled,Bengaluru,Karnataka
+8,73,13,2025-11-20 17:38:00,Processing,Pune,Maharashtra
+9,61,6,2025-02-18 22:05:00,Delivered,Chennai,Tamil Nadu
+10,40,4,2025-04-23 05:31:00,Delivered,Bengaluru,Karnataka
+11,67,12,2025-06-21 14:06:00,Shipped,Mumbai,Maharashtra
+12,15,5,2025-01-30 08:04:00,Processing,Mumbai,Maharashtra
+13,5,1,2025-04-11 02:43:00,Processing,Jaipur,Rajasthan
+14,31,7,2025-07-27 18:57:00,Delivered,Surat,Gujarat
+15,66,2,2025-01-13 03:03:00,Delivered,Jaipur,Rajasthan
+16,26,2,2025-04-06 04:53:00,Processing,Surat,Gujarat
+17,78,3,2025-08-24 14:32:00,Delivered,Pune,Maharashtra
+18,100,10,2025-07-07 14:17:00,Shipped,Mumbai,Maharashtra
+19,87,12,2025-08-06 08:35:00,Cancelled,Mumbai,Maharashtra
+20,74,14,2025-08-11 00:02:00,Delivered,Kolkata,West Bengal
+21,37,10,2025-02-05 19:39:00,Delivered,Surat,Gujarat
+22,93,4,2025-07-16 21:19:00,Delivered,Bengaluru,Karnataka
+23,61,4,2025-01-03 06:23:00,Delivered,Chennai,Tamil Nadu
+24,41,13,2025-03-14 19:24:00,Delivered,Hyderabad,Telangana
+25,97,1,2025-01-12 19:09:00,Delivered,Kolkata,West Bengal
+26,24,10,2025-06-15 00:21:00,Delivered,Kolkata,West Bengal
+27,85,15,2025-09-28 10:43:00,Delivered,Delhi,Delhi
+28,40,4,2025-04-24 21:15:00,Delivered,Bengaluru,Karnataka
+29,6,3,2025-04-19 09:06:00,Delivered,Jaipur,Rajasthan
+30,74,8,2025-06-24 16:41:00,Delivered,Kolkata,West Bengal
+31,49,13,2025-03-23 13:53:00,Delivered,Jaipur,Rajasthan
+32,2,14,2025-08-10 11:55:00,Shipped,Hyderabad,Telangana
+33,71,8,2025-03-18 03:49:00,Delivered,Hyderabad,Telangana
+34,98,7,2025-01-28 20:14:00,Delivered,Delhi,Delhi
+35,8,13,2025-10-23 16:25:00,Delivered,Kolkata,West Bengal
+36,39,12,2025-02-18 10:36:00,Delivered,Surat,Gujarat
+37,6,3,2025-03-18 16:56:00,Delivered,Jaipur,Rajasthan
+38,28,9,2025-07-08 21:35:00,Delivered,Pune,Maharashtra
+39,37,13,2025-07-11 08:18:00,Delivered,Surat,Gujarat
+40,20,8,2025-01-10 20:34:00,Processing,Chennai,Tamil Nadu
+41,40,2,2025-05-18 05:44:00,Cancelled,Bengaluru,Karnataka
+42,90,13,2025-05-25 02:45:00,Delivered,Kolkata,West Bengal
+43,40,11,2025-07-27 12:11:00,Processing,Bengaluru,Karnataka
+44,22,1,2025-05-30 12:38:00,Delivered,Pune,Maharashtra
+45,2,10,2025-11-11 04:42:00,Delivered,Hyderabad,Telangana
+46,52,15,2025-11-25 16:50:00,Delivered,Mumbai,Maharashtra
+47,71,2,2025-04-16 18:51:00,Delivered,Hyderabad,Telangana
+48,78,2,2025-10-12 08:46:00,Processing,Pune,Maharashtra
+49,78,15,2025-02-12 14:24:00,Delivered,Pune,Maharashtra
+50,19,6,2025-06-22 02:50:00,Delivered,Bengaluru,Karnataka
+51,13,9,2025-04-28 01:55:00,Shipped,Surat,Gujarat
+52,90,4,2025-01-01 01:10:00,Delivered,Kolkata,West Bengal
+53,62,5,2025-09-28 12:49:00,Delivered,Chennai,Tamil Nadu
+54,93,3,2025-03-08 15:03:00,Delivered,Bengaluru,Karnataka
+55,92,1,2025-03-09 13:33:00,Cancelled,Bengaluru,Karnataka
+56,77,14,2025-12-09 16:59:00,Cancelled,Jaipur,Rajasthan
+57,92,1,2025-01-28 15:36:00,Delivered,Bengaluru,Karnataka
+58,73,15,2025-01-15 08:35:00,Delivered,Pune,Maharashtra
+59,70,3,2025-07-05 18:42:00,Delivered,Bengaluru,Karnataka
+60,54,8,2025-12-25 20:45:00,Cancelled,Pune,Maharashtra
+61,47,13,2025-12-27 16:23:00,Cancelled,Ahmedabad,Gujarat
+62,73,5,2025-07-04 04:24:00,Delivered,Pune,Maharashtra
+63,49,4,2025-12-29 15:16:00,Delivered,Jaipur,Rajasthan
+64,80,12,2025-03-06 09:45:00,Delivered,Ahmedabad,Gujarat
+65,41,9,2025-05-31 09:42:00,Processing,Hyderabad,Telangana
+66,96,9,2025-11-14 16:23:00,Delivered,Ahmedabad,Gujarat
+67,16,8,2025-07-08 13:41:00,Delivered,Mumbai,Maharashtra
+68,46,3,2025-07-02 21:31:00,Shipped,Surat,Gujarat
+69,17,1,2025-08-11 14:42:00,Delivered,Delhi,Delhi
+70,74,7,2025-05-25 17:54:00,Shipped,Kolkata,West Bengal
+71,47,13,2025-10-23 17:45:00,Delivered,Ahmedabad,Gujarat
+72,11,12,2025-01-26 15:56:00,Delivered,Mumbai,Maharashtra
+73,10,12,2025-01-04 14:22:00,Delivered,Pune,Maharashtra
+74,30,4,2025-07-14 20:37:00,Shipped,Kolkata,West Bengal
+75,69,10,2025-07-04 07:58:00,Delivered,Pune,Maharashtra
+76,63,14,2025-04-10 17:22:00,Shipped,Bengaluru,Karnataka
+77,39,1,2025-03-23 07:07:00,Delivered,Surat,Gujarat
+78,32,3,2025-01-03 03:33:00,Shipped,Surat,Gujarat
+79,90,6,2025-04-17 07:18:00,Processing,Kolkata,West Bengal
+80,72,5,2025-02-18 17:55:00,Delivered,Ahmedabad,Gujarat
+81,75,15,2025-12-04 02:02:00,Delivered,Jaipur,Rajasthan
+82,72,8,2025-04-07 10:28:00,Shipped,Ahmedabad,Gujarat
+83,67,6,2025-05-05 05:13:00,Delivered,Mumbai,Maharashtra
+84,48,15,2025-01-02 16:40:00,Delivered,Jaipur,Rajasthan
+85,99,5,2025-12-03 08:25:00,Cancelled,Surat,Gujarat
+86,32,1,2025-05-06 09:38:00,Delivered,Surat,Gujarat
+87,22,5,2025-07-06 08:10:00,Shipped,Pune,Maharashtra
+88,16,13,2025-02-08 15:28:00,Delivered,Mumbai,Maharashtra
+89,19,3,2025-07-29 10:14:00,Delivered,Bengaluru,Karnataka
+90,3,12,2025-08-19 16:01:00,Delivered,Pune,Maharashtra
+91,53,4,2025-03-10 18:47:00,Shipped,Mumbai,Maharashtra
+92,54,1,2025-01-19 12:10:00,Processing,Pune,Maharashtra
+93,25,11,2025-10-15 05:37:00,Delivered,Hyderabad,Telangana
+94,96,2,2025-05-31 19:24:00,Processing,Ahmedabad,Gujarat
+95,93,10,2025-10-11 06:18:00,Delivered,Bengaluru,Karnataka
+96,25,3,2025-02-08 01:58:00,Delivered,Hyderabad,Telangana
+97,67,12,2025-07-09 15:41:00,Shipped,Mumbai,Maharashtra
+98,56,6,2025-09-10 13:17:00,Shipped,Bengaluru,Karnataka
+99,62,13,2025-06-16 19:02:00,Delivered,Chennai,Tamil Nadu
+100,92,6,2025-05-13 13:10:00,Delivered,Bengaluru,Karnataka
+101,52,11,2025-10-22 11:28:00,Delivered,Mumbai,Maharashtra
+102,66,9,2025-07-22 16:23:00,Delivered,Jaipur,Rajasthan
+103,89,10,2025-06-16 07:47:00,Delivered,Bengaluru,Karnataka
+104,58,9,2025-08-25 13:24:00,Delivered,Delhi,Delhi
+105,26,7,2025-04-04 13:29:00,Shipped,Surat,Gujarat
+106,32,10,2025-02-25 21:16:00,Processing,Surat,Gujarat
+107,58,3,2025-07-20 08:59:00,Delivered,Delhi,Delhi
+108,48,1,2025-12-20 12:22:00,Processing,Jaipur,Rajasthan
+109,16,12,2025-01-01 09:43:00,Cancelled,Mumbai,Maharashtra
+110,66,2,2025-05-24 11:07:00,Delivered,Jaipur,Rajasthan
+111,76,5,2025-05-19 21:39:00,Delivered,Mumbai,Maharashtra
+112,49,3,2025-09-03 21:52:00,Cancelled,Jaipur,Rajasthan
+113,76,14,2025-01-20 05:28:00,Processing,Mumbai,Maharashtra
+114,99,3,2025-10-06 08:40:00,Delivered,Surat,Gujarat
+115,63,5,2025-09-11 16:28:00,Delivered,Bengaluru,Karnataka
+116,15,8,2025-04-06 12:53:00,Delivered,Mumbai,Maharashtra
+117,61,7,2025-07-15 13:28:00,Delivered,Chennai,Tamil Nadu
+118,3,6,2025-09-27 07:21:00,Shipped,Pune,Maharashtra
+119,38,9,2025-02-28 16:27:00,Delivered,Ahmedabad,Gujarat
+120,61,10,2025-01-31 20:42:00,Delivered,Chennai,Tamil Nadu
+121,42,13,2025-11-09 05:36:00,Delivered,Surat,Gujarat
+122,21,4,2025-12-04 19:54:00,Delivered,Hyderabad,Telangana
+123,57,11,2025-05-22 00:43:00,Delivered,Pune,Maharashtra
+124,69,6,2025-05-02 14:56:00,Delivered,Pune,Maharashtra
+125,94,4,2025-03-28 05:06:00,Delivered,Kolkata,West Bengal
+126,76,6,2025-10-24 08:36:00,Shipped,Mumbai,Maharashtra
+127,54,10,2025-11-29 09:12:00,Delivered,Pune,Maharashtra
+128,93,14,2025-12-25 14:09:00,Shipped,Bengaluru,Karnataka
+129,81,7,2025-04-17 20:11:00,Delivered,Mumbai,Maharashtra
+130,22,1,2025-10-12 09:19:00,Cancelled,Pune,Maharashtra
+131,60,2,2025-08-13 03:36:00,Delivered,Delhi,Delhi
+132,56,12,2025-07-04 10:45:00,Delivered,Bengaluru,Karnataka
+133,83,7,2025-11-29 02:06:00,Delivered,Kolkata,West Bengal
+134,29,2,2025-06-13 10:58:00,Delivered,Surat,Gujarat
+135,80,3,2025-07-15 14:14:00,Processing,Ahmedabad,Gujarat
+136,27,12,2025-09-20 07:28:00,Delivered,Hyderabad,Telangana
+137,60,9,2025-04-24 04:51:00,Processing,Delhi,Delhi
+138,25,15,2025-05-03 12:09:00,Processing,Hyderabad,Telangana
+139,68,12,2025-10-01 04:41:00,Delivered,Ahmedabad,Gujarat
+140,54,2,2025-09-20 06:04:00,Processing,Pune,Maharashtra
+141,71,4,2025-07-01 22:37:00,Delivered,Hyderabad,Telangana
+142,87,3,2025-11-07 10:00:00,Shipped,Mumbai,Maharashtra
+143,85,4,2025-12-14 02:45:00,Cancelled,Delhi,Delhi
+144,18,7,2025-02-07 23:28:00,Delivered,Surat,Gujarat
+145,27,15,2025-12-02 01:54:00,Delivered,Hyderabad,Telangana
+146,60,6,2025-05-05 22:40:00,Delivered,Delhi,Delhi
+147,80,15,2025-08-22 09:34:00,Delivered,Ahmedabad,Gujarat
+148,53,15,2025-10-09 17:33:00,Delivered,Mumbai,Maharashtra
+149,48,7,2025-01-01 09:31:00,Delivered,Jaipur,Rajasthan
+150,42,8,2025-12-19 15:07:00,Delivered,Surat,Gujarat
+151,72,10,2025-09-13 07:27:00,Cancelled,Ahmedabad,Gujarat
+152,94,4,2025-04-26 08:57:00,Delivered,Kolkata,West Bengal
+153,53,3,2025-11-28 11:35:00,Shipped,Mumbai,Maharashtra
+154,59,11,2025-11-11 03:58:00,Delivered,Ahmedabad,Gujarat
+155,89,15,2025-11-11 04:52:00,Shipped,Bengaluru,Karnataka
+156,85,9,2025-09-04 02:29:00,Delivered,Delhi,Delhi
+157,87,1,2025-04-12 11:57:00,Delivered,Mumbai,Maharashtra
+158,18,6,2025-03-03 17:49:00,Delivered,Surat,Gujarat
+159,70,5,2025-05-01 10:20:00,Delivered,Bengaluru,Karnataka
+160,45,12,2025-11-27 09:18:00,Delivered,Pune,Maharashtra
+161,62,4,2025-06-25 11:25:00,Delivered,Chennai,Tamil Nadu
+162,21,14,2025-12-13 04:38:00,Delivered,Hyderabad,Telangana
+163,21,15,2025-03-10 05:25:00,Processing,Hyderabad,Telangana
+164,59,9,2025-05-17 08:23:00,Delivered,Ahmedabad,Gujarat
+165,10,2,2025-08-01 03:00:00,Delivered,Pune,Maharashtra
+166,57,11,2025-02-23 12:00:00,Delivered,Pune,Maharashtra
+167,71,4,2025-01-16 21:59:00,Delivered,Hyderabad,Telangana
+168,35,11,2025-10-16 06:10:00,Delivered,Chennai,Tamil Nadu
+169,41,11,2025-08-01 00:26:00,Delivered,Hyderabad,Telangana
+170,68,13,2025-10-02 01:03:00,Shipped,Ahmedabad,Gujarat
+171,33,12,2025-04-03 07:33:00,Shipped,Delhi,Delhi
+172,18,6,2025-05-17 15:12:00,Delivered,Surat,Gujarat
+173,74,14,2025-09-14 21:35:00,Delivered,Kolkata,West Bengal
+174,25,10,2025-05-15 20:57:00,Delivered,Hyderabad,Telangana
+175,55,3,2025-07-04 16:49:00,Delivered,Chennai,Tamil Nadu
+176,36,9,2025-06-24 07:41:00,Delivered,Delhi,Delhi
+177,51,15,2025-10-09 14:11:00,Shipped,Surat,Gujarat
+178,50,9,2025-07-08 14:31:00,Shipped,Kolkata,West Bengal
+179,67,14,2025-12-12 05:27:00,Delivered,Mumbai,Maharashtra
+180,18,4,2025-07-27 21:59:00,Delivered,Surat,Gujarat
+181,4,9,2025-12-10 01:23:00,Shipped,Bengaluru,Karnataka
+182,75,8,2025-10-21 10:26:00,Delivered,Jaipur,Rajasthan
+183,3,5,2025-06-22 12:55:00,Delivered,Pune,Maharashtra
+184,63,5,2025-04-15 06:35:00,Delivered,Bengaluru,Karnataka
+185,53,8,2025-02-09 13:11:00,Delivered,Mumbai,Maharashtra
+186,35,8,2025-06-10 01:17:00,Delivered,Chennai,Tamil Nadu
+187,77,13,2025-07-12 04:03:00,Delivered,Jaipur,Rajasthan
+188,77,6,2025-04-12 15:36:00,Delivered,Jaipur,Rajasthan
+189,62,1,2025-11-20 12:34:00,Delivered,Chennai,Tamil Nadu
+190,23,9,2025-09-03 05:38:00,Delivered,Ahmedabad,Gujarat
+191,35,10,2025-07-20 17:16:00,Shipped,Chennai,Tamil Nadu
+192,47,11,2025-11-17 13:37:00,Processing,Ahmedabad,Gujarat
+193,81,6,2025-04-08 01:01:00,Delivered,Mumbai,Maharashtra
+194,16,5,2025-12-20 23:50:00,Delivered,Mumbai,Maharashtra
+195,16,4,2025-11-29 22:03:00,Delivered,Mumbai,Maharashtra
+196,9,10,2025-12-24 19:52:00,Cancelled,Pune,Maharashtra
+197,82,3,2025-03-19 18:23:00,Delivered,Chennai,Tamil Nadu
+198,82,3,2025-08-24 22:41:00,Delivered,Chennai,Tamil Nadu
+199,5,4,2025-05-07 07:57:00,Delivered,Jaipur,Rajasthan
+200,18,9,2025-04-17 11:37:00,Shipped,Surat,Gujarat
+201,74,14,2025-06-13 15:18:00,Delivered,Kolkata,West Bengal
+202,15,3,2025-04-20 00:07:00,Delivered,Mumbai,Maharashtra
+203,21,2,2025-08-06 01:29:00,Shipped,Hyderabad,Telangana
+204,8,8,2025-07-30 06:06:00,Delivered,Kolkata,West Bengal
+205,95,11,2025-08-02 08:02:00,Delivered,Chennai,Tamil Nadu
+206,32,10,2025-02-27 07:02:00,Delivered,Surat,Gujarat
+207,17,14,2025-07-25 05:01:00,Processing,Delhi,Delhi
+208,26,8,2025-02-19 13:25:00,Delivered,Surat,Gujarat
+209,65,1,2025-04-19 13:11:00,Shipped,Pune,Maharashtra
+210,14,12,2025-08-14 01:16:00,Processing,Ahmedabad,Gujarat
+211,1,1,2025-12-29 23:15:00,Shipped,Surat,Gujarat
+212,83,4,2025-09-19 21:45:00,Cancelled,Kolkata,West Bengal
+213,22,8,2025-09-28 14:40:00,Processing,Pune,Maharashtra
+214,88,10,2025-04-21 18:46:00,Delivered,Pune,Maharashtra
+215,21,13,2025-10-08 05:57:00,Delivered,Hyderabad,Telangana
+216,27,15,2025-04-16 10:40:00,Delivered,Hyderabad,Telangana
+217,48,5,2025-08-02 23:07:00,Delivered,Jaipur,Rajasthan
+218,71,14,2025-01-22 12:06:00,Delivered,Hyderabad,Telangana
+219,20,3,2025-12-23 09:29:00,Delivered,Chennai,Tamil Nadu
+220,18,12,2025-07-06 16:26:00,Delivered,Surat,Gujarat
+221,95,12,2025-08-28 03:35:00,Delivered,Chennai,Tamil Nadu
+222,69,15,2025-03-18 19:54:00,Cancelled,Pune,Maharashtra
+223,63,15,2025-10-23 13:54:00,Shipped,Bengaluru,Karnataka
+224,53,14,2025-02-14 12:53:00,Shipped,Mumbai,Maharashtra
+225,83,5,2025-06-01 00:55:00,Shipped,Kolkata,West Bengal
+226,89,6,2025-02-07 22:22:00,Delivered,Bengaluru,Karnataka
+227,1,14,2025-02-07 11:41:00,Delivered,Surat,Gujarat
+228,93,12,2025-03-06 05:20:00,Delivered,Bengaluru,Karnataka
+229,8,6,2025-04-16 08:38:00,Delivered,Kolkata,West Bengal
+230,11,1,2025-05-27 20:05:00,Delivered,Mumbai,Maharashtra
+231,65,11,2025-08-30 17:39:00,Delivered,Pune,Maharashtra
+232,61,2,2025-04-06 22:18:00,Delivered,Chennai,Tamil Nadu
+233,50,9,2025-12-06 02:32:00,Delivered,Kolkata,West Bengal
+234,21,3,2025-07-08 16:19:00,Delivered,Hyderabad,Telangana
+235,7,6,2025-02-17 06:15:00,Delivered,Kolkata,West Bengal
+236,93,8,2025-08-19 06:44:00,Shipped,Bengaluru,Karnataka
+237,48,15,2025-03-12 06:38:00,Delivered,Jaipur,Rajasthan
+238,57,15,2025-04-27 11:46:00,Delivered,Pune,Maharashtra
+239,69,5,2025-08-12 02:03:00,Delivered,Pune,Maharashtra
+240,87,15,2025-06-13 16:16:00,Delivered,Mumbai,Maharashtra
+241,27,9,2025-04-07 11:12:00,Delivered,Hyderabad,Telangana
+242,47,13,2025-05-13 14:05:00,Processing,Ahmedabad,Gujarat
+243,49,1,2025-12-27 07:56:00,Processing,Jaipur,Rajasthan
+244,4,14,2025-09-26 20:59:00,Cancelled,Bengaluru,Karnataka
+245,54,6,2025-01-26 18:26:00,Delivered,Pune,Maharashtra
+246,67,13,2025-03-09 23:13:00,Delivered,Mumbai,Maharashtra
+247,65,6,2025-07-18 08:29:00,Shipped,Pune,Maharashtra
+248,75,9,2025-10-21 07:27:00,Delivered,Jaipur,Rajasthan
+249,76,15,2025-06-26 07:36:00,Delivered,Mumbai,Maharashtra
+250,5,4,2025-03-19 23:08:00,Cancelled,Jaipur,Rajasthan
+251,17,1,2025-05-02 18:20:00,Processing,Delhi,Delhi
+252,17,7,2025-07-13 20:21:00,Delivered,Delhi,Delhi
+253,76,5,2025-03-07 13:55:00,Shipped,Mumbai,Maharashtra
+254,18,2,2025-05-20 04:19:00,Delivered,Surat,Gujarat
+255,29,2,2025-09-11 04:42:00,Shipped,Surat,Gujarat
+256,1,9,2025-10-13 15:53:00,Shipped,Surat,Gujarat
+257,41,11,2025-01-23 13:25:00,Delivered,Hyderabad,Telangana
+258,3,6,2025-01-21 14:22:00,Shipped,Pune,Maharashtra
+259,58,12,2025-01-09 11:05:00,Delivered,Delhi,Delhi
+260,61,14,2025-06-28 02:42:00,Delivered,Chennai,Tamil Nadu
+261,65,11,2025-12-29 17:20:00,Delivered,Pune,Maharashtra
+262,16,12,2025-05-29 09:35:00,Delivered,Mumbai,Maharashtra
+263,93,5,2025-02-27 19:11:00,Delivered,Bengaluru,Karnataka
+264,31,6,2025-05-19 06:57:00,Delivered,Surat,Gujarat
+265,52,12,2025-06-09 07:37:00,Cancelled,Mumbai,Maharashtra
+266,18,5,2025-04-21 12:44:00,Shipped,Surat,Gujarat
+267,45,1,2025-02-02 10:46:00,Delivered,Pune,Maharashtra
+268,68,6,2025-12-09 12:52:00,Delivered,Ahmedabad,Gujarat
+269,73,7,2025-09-23 18:16:00,Processing,Pune,Maharashtra
+270,88,15,2025-12-17 08:48:00,Delivered,Pune,Maharashtra
+271,40,12,2025-11-22 21:15:00,Delivered,Bengaluru,Karnataka
+272,86,2,2025-09-29 10:41:00,Delivered,Pune,Maharashtra
+273,71,15,2025-12-08 13:30:00,Delivered,Hyderabad,Telangana
+274,62,1,2025-09-15 16:43:00,Delivered,Chennai,Tamil Nadu
+275,67,10,2025-08-20 11:35:00,Delivered,Mumbai,Maharashtra
+276,9,5,2025-09-18 16:24:00,Shipped,Pune,Maharashtra
+277,48,14,2025-07-10 01:36:00,Delivered,Jaipur,Rajasthan
+278,86,4,2025-01-17 03:43:00,Delivered,Pune,Maharashtra
+279,79,7,2025-12-10 10:52:00,Delivered,Kolkata,West Bengal
+280,65,15,2025-11-10 19:58:00,Shipped,Pune,Maharashtra
+281,74,2,2025-12-10 05:01:00,Delivered,Kolkata,West Bengal
+282,80,10,2025-12-23 15:18:00,Delivered,Ahmedabad,Gujarat
+283,6,3,2025-11-11 15:23:00,Delivered,Jaipur,Rajasthan
+284,64,2,2025-02-10 08:53:00,Delivered,Pune,Maharashtra
+285,93,8,2025-12-24 23:39:00,Delivered,Bengaluru,Karnataka
+286,4,3,2025-11-07 21:34:00,Cancelled,Bengaluru,Karnataka
+287,23,6,2025-01-21 11:33:00,Cancelled,Ahmedabad,Gujarat
+288,24,11,2025-03-16 12:32:00,Delivered,Kolkata,West Bengal
+289,16,3,2025-07-18 20:15:00,Delivered,Mumbai,Maharashtra
+290,64,7,2025-09-13 22:45:00,Delivered,Pune,Maharashtra
+291,98,13,2025-12-30 03:58:00,Shipped,Delhi,Delhi
+292,58,9,2025-03-07 04:14:00,Delivered,Delhi,Delhi
+293,77,9,2025-03-11 17:19:00,Delivered,Jaipur,Rajasthan
+294,62,1,2025-11-14 01:26:00,Cancelled,Chennai,Tamil Nadu
+295,95,3,2025-01-18 04:00:00,Delivered,Chennai,Tamil Nadu
+296,97,10,2025-11-19 03:52:00,Shipped,Kolkata,West Bengal
+297,12,2,2025-02-28 18:19:00,Delivered,Kolkata,West Bengal
+298,52,6,2025-12-14 07:55:00,Cancelled,Mumbai,Maharashtra
+299,100,5,2025-04-24 09:34:00,Delivered,Mumbai,Maharashtra
+300,3,3,2025-01-13 19:45:00,Cancelled,Pune,Maharashtra

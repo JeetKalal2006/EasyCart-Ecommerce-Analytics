@@ -1,0 +1,16 @@
+seller_id,seller_name,city,state,seller_rating,join_date
+1,Seller 1,Chennai,Tamil Nadu,4.64,2023-04-21
+2,Seller 2,Hyderabad,Telangana,4.19,2024-10-17
+3,Seller 3,Hyderabad,Telangana,3.87,2023-09-18
+4,Seller 4,Pune,Maharashtra,4.99,2023-04-14
+5,Seller 5,Pune,Maharashtra,4.1,2025-05-23
+6,Seller 6,Mumbai,Maharashtra,3.81,2023-01-10
+7,Seller 7,Bengaluru,Karnataka,4.6,2023-08-19
+8,Seller 8,Mumbai,Maharashtra,4.03,2023-01-13
+9,Seller 9,Chennai,Tamil Nadu,4.33,2024-08-20
+10,Seller 10,Kolkata,West Bengal,4.64,2024-07-19
+11,Seller 11,Ahmedabad,Gujarat,3.52,2024-09-24
+12,Seller 12,Mumbai,Maharashtra,4.64,2023-01-20
+13,Seller 13,Pune,Maharashtra,4.76,2023-03-11
+14,Seller 14,Hyderabad,Telangana,4.25,2024-11-28
+15,Seller 15,Delhi,Delhi,4.08,2023-05-12

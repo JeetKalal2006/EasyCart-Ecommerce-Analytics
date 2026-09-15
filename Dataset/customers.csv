@@ -1,0 +1,101 @@
+customer_id,customer_name,gender,age,city,state,registration_date
+1,Customer 1,Female,32,Surat,Gujarat,2024-04-16
+2,Customer 2,Female,56,Hyderabad,Telangana,2024-05-01
+3,Customer 3,Male,28,Pune,Maharashtra,2024-03-28
+4,Customer 4,Female,41,Bengaluru,Karnataka,2024-05-10
+5,Customer 5,Male,41,Jaipur,Rajasthan,2025-05-06
+6,Customer 6,Male,38,Jaipur,Rajasthan,2024-06-09
+7,Customer 7,Female,42,Kolkata,West Bengal,2025-07-14
+8,Customer 8,Male,33,Kolkata,West Bengal,2024-07-08
+9,Customer 9,Male,20,Pune,Maharashtra,2025-04-29
+10,Customer 10,Female,26,Pune,Maharashtra,2024-06-15
+11,Customer 11,Female,31,Mumbai,Maharashtra,2024-08-29
+12,Customer 12,Male,19,Kolkata,West Bengal,2024-12-05
+13,Customer 13,Female,25,Surat,Gujarat,2024-02-04
+14,Customer 14,Male,57,Ahmedabad,Gujarat,2025-01-22
+15,Customer 15,Male,59,Mumbai,Maharashtra,2025-04-21
+16,Customer 16,Female,51,Mumbai,Maharashtra,2024-07-20
+17,Customer 17,Female,32,Delhi,Delhi,2025-03-31
+18,Customer 18,Female,57,Surat,Gujarat,2024-12-03
+19,Customer 19,Female,42,Bengaluru,Karnataka,2024-07-06
+20,Customer 20,Male,18,Chennai,Tamil Nadu,2025-06-04
+21,Customer 21,Male,25,Hyderabad,Telangana,2025-04-16
+22,Customer 22,Female,52,Pune,Maharashtra,2025-02-22
+23,Customer 23,Female,59,Ahmedabad,Gujarat,2024-08-18
+24,Customer 24,Male,24,Kolkata,West Bengal,2024-07-19
+25,Customer 25,Male,50,Hyderabad,Telangana,2024-02-17
+26,Customer 26,Male,41,Surat,Gujarat,2024-04-08
+27,Customer 27,Male,52,Hyderabad,Telangana,2025-04-06
+28,Customer 28,Female,43,Pune,Maharashtra,2025-05-17
+29,Customer 29,Male,32,Surat,Gujarat,2024-01-15
+30,Customer 30,Male,30,Kolkata,West Bengal,2025-07-28
+31,Customer 31,Male,49,Surat,Gujarat,2025-04-29
+32,Customer 32,Female,32,Surat,Gujarat,2024-06-19
+33,Customer 33,Female,24,Delhi,Delhi,2024-08-30
+34,Customer 34,Female,59,Jaipur,Rajasthan,2025-07-10
+35,Customer 35,Male,45,Chennai,Tamil Nadu,2024-01-28
+36,Customer 36,Female,28,Delhi,Delhi,2025-05-20
+37,Customer 37,Female,56,Surat,Gujarat,2024-07-08
+38,Customer 38,Male,44,Ahmedabad,Gujarat,2024-09-15
+39,Customer 39,Male,44,Surat,Gujarat,2024-11-13
+40,Customer 40,Female,59,Bengaluru,Karnataka,2025-01-08
+41,Customer 41,Female,29,Hyderabad,Telangana,2025-05-24
+42,Customer 42,Female,54,Surat,Gujarat,2024-03-21
+43,Customer 43,Other,45,Ahmedabad,Gujarat,2025-07-19
+44,Customer 44,Male,50,Surat,Gujarat,2025-01-19
+45,Customer 45,Female,43,Pune,Maharashtra,2025-02-19
+46,Customer 46,Female,28,Surat,Gujarat,2024-07-02
+47,Customer 47,Female,41,Ahmedabad,Gujarat,2024-07-16
+48,Customer 48,Female,33,Jaipur,Rajasthan,2024-07-19
+49,Customer 49,Female,20,Jaipur,Rajasthan,2025-02-06
+50,Customer 50,Female,36,Kolkata,West Bengal,2024-05-27
+51,Customer 51,Male,50,Surat,Gujarat,2025-07-04
+52,Customer 52,Female,28,Mumbai,Maharashtra,2025-04-17
+53,Customer 53,Female,47,Mumbai,Maharashtra,2024-10-24
+54,Customer 54,Male,33,Pune,Maharashtra,2024-12-11
+55,Customer 55,Female,19,Chennai,Tamil Nadu,2024-10-30
+56,Customer 56,Female,26,Bengaluru,Karnataka,2024-08-20
+57,Customer 57,Female,33,Pune,Maharashtra,2024-05-10
+58,Customer 58,Female,50,Delhi,Delhi,2025-08-09
+59,Customer 59,Male,55,Ahmedabad,Gujarat,2024-04-13
+60,Customer 60,Female,42,Delhi,Delhi,2024-04-08
+61,Customer 61,Male,35,Chennai,Tamil Nadu,2024-06-11
+62,Customer 62,Male,21,Chennai,Tamil Nadu,2025-02-01
+63,Customer 63,Male,25,Bengaluru,Karnataka,2024-05-14
+64,Customer 64,Female,50,Pune,Maharashtra,2025-04-04
+65,Customer 65,Female,39,Pune,Maharashtra,2024-02-07
+66,Customer 66,Male,25,Jaipur,Rajasthan,2024-10-09
+67,Customer 67,Male,50,Mumbai,Maharashtra,2024-10-10
+68,Customer 68,Male,36,Ahmedabad,Gujarat,2025-05-30
+69,Customer 69,Female,34,Pune,Maharashtra,2024-06-20
+70,Customer 70,Female,58,Bengaluru,Karnataka,2024-02-06
+71,Customer 71,Male,48,Hyderabad,Telangana,2024-04-08
+72,Customer 72,Male,38,Ahmedabad,Gujarat,2024-06-09
+73,Customer 73,Male,42,Pune,Maharashtra,2025-07-19
+74,Customer 74,Female,41,Kolkata,West Bengal,2024-10-14
+75,Customer 75,Male,44,Jaipur,Rajasthan,2025-05-04
+76,Customer 76,Male,57,Mumbai,Maharashtra,2025-01-27
+77,Customer 77,Male,46,Jaipur,Rajasthan,2025-06-21
+78,Customer 78,Male,41,Pune,Maharashtra,2025-06-08
+79,Customer 79,Male,53,Kolkata,West Bengal,2024-01-20
+80,Customer 80,Male,33,Ahmedabad,Gujarat,2025-04-15
+81,Customer 81,Male,40,Mumbai,Maharashtra,2024-02-20
+82,Customer 82,Male,39,Chennai,Tamil Nadu,2024-11-09
+83,Customer 83,Male,59,Kolkata,West Bengal,2024-02-23
+84,Customer 84,Female,22,Bengaluru,Karnataka,2024-04-12
+85,Customer 85,Female,49,Delhi,Delhi,2024-12-15
+86,Customer 86,Female,33,Pune,Maharashtra,2024-09-25
+87,Customer 87,Female,47,Mumbai,Maharashtra,2024-04-29
+88,Customer 88,Male,43,Pune,Maharashtra,2025-04-18
+89,Customer 89,Male,26,Bengaluru,Karnataka,2024-02-27
+90,Customer 90,Male,51,Kolkata,West Bengal,2024-04-05
+91,Customer 91,Female,57,Jaipur,Rajasthan,2024-08-24
+92,Customer 92,Female,56,Bengaluru,Karnataka,2025-03-22
+93,Customer 93,Female,20,Bengaluru,Karnataka,2024-03-16
+94,Customer 94,Male,54,Kolkata,West Bengal,2024-03-26
+95,Customer 95,Male,45,Chennai,Tamil Nadu,2024-03-09
+96,Customer 96,Male,22,Ahmedabad,Gujarat,2024-07-22
+97,Customer 97,Female,38,Kolkata,West Bengal,2025-07-04
+98,Customer 98,Male,47,Delhi,Delhi,2024-12-22
+99,Customer 99,Male,22,Surat,Gujarat,2024-04-09
+100,Customer 100,Male,27,Mumbai,Maharashtra,2025-03-17

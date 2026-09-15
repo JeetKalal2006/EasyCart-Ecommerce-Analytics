@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,warehouse_capacity
+1,Ahmedabad Central Warehouse,Ahmedabad,Gujarat,14235
+2,Mumbai Central Warehouse,Mumbai,Maharashtra,6929
+3,Delhi Central Warehouse,Delhi,Delhi,6013
+4,Bengaluru Central Warehouse,Bengaluru,Karnataka,5226
+5,Hyderabad Central Warehouse,Hyderabad,Telangana,12321
